@@ -63184,55 +63184,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "419256823716122624"
-          ],
-          "editableUntil" : "2014-01-04T00:29:50.846Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Charles 🐺",
-            "screen_name" : "Charlesy101",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "239066021",
-            "id" : "239066021"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "419256823716122624",
-      "in_reply_to_user_id" : "239066021",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "419256823716122624",
-      "created_at" : "Fri Jan 03 23:59:50 +0000 2014",
-      "favorited" : false,
-      "full_text" : "@Charlesy101 cheating cunt",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Charlesy101",
-      "in_reply_to_user_id_str" : "239066021"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "419180412809003008"
           ],
           "editableUntil" : "2014-01-03T19:26:13.066Z",
@@ -101068,57 +101019,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "274857492243177472"
-          ],
-          "editableUntil" : "2012-12-01T13:18:27.413Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Charles 🐺",
-            "screen_name" : "Charlesy101",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "239066021",
-            "id" : "239066021"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "39"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "274857236516450304",
-      "id_str" : "274857492243177472",
-      "in_reply_to_user_id" : "239066021",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "274857492243177472",
-      "in_reply_to_status_id" : "274857236516450304",
-      "created_at" : "Sat Dec 01 12:48:27 +0000 2012",
-      "favorited" : false,
-      "full_text" : "@Charlesy101 your such a cunt sometimes",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Charlesy101",
-      "in_reply_to_user_id_str" : "239066021"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "274857364878917632"
           ],
           "editableUntil" : "2012-12-01T13:17:57.047Z",
@@ -107355,41 +107255,6 @@ module.exports = [
       "created_at" : "Fri Oct 26 20:13:43 +0000 2012",
       "favorited" : false,
       "full_text" : "So funnny, http://t.co/DxjapdYT",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "261888268818341889"
-          ],
-          "editableUntil" : "2012-10-26T18:23:23.592Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "41"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "261888268818341889",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "261888268818341889",
-      "created_at" : "Fri Oct 26 17:53:23 +0000 2012",
-      "favorited" : false,
-      "full_text" : "saying gg to someone cos your a lazy cunt",
       "lang" : "en"
     }
   },
@@ -119272,57 +119137,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "231831551242035200"
-          ],
-          "editableUntil" : "2012-08-04T19:48:43.695Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Charles 🐺",
-            "screen_name" : "Charlesy101",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "239066021",
-            "id" : "239066021"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "24"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "231829997155913730",
-      "id_str" : "231831551242035200",
-      "in_reply_to_user_id" : "239066021",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "231831551242035200",
-      "in_reply_to_status_id" : "231829997155913730",
-      "created_at" : "Sat Aug 04 19:18:43 +0000 2012",
-      "favorited" : false,
-      "full_text" : "@Charlesy101 your a cunt",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Charlesy101",
-      "in_reply_to_user_id_str" : "239066021"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "231831473433505793"
           ],
           "editableUntil" : "2012-08-04T19:48:25.144Z",
@@ -125298,55 +125112,6 @@ module.exports = [
       "created_at" : "Tue Jul 10 19:36:40 +0000 2012",
       "favorited" : false,
       "full_text" : "One does not simply go on the second page of a google search",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "222583347233308672"
-          ],
-          "editableUntil" : "2012-07-10T07:19:40.036Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "coordinates" : {
-        "type" : "Point",
-        "coordinates" : [
-          "-1.56777358",
-          "53.48547809"
-        ]
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "geo" : {
-        "type" : "Point",
-        "coordinates" : [
-          "53.48547809",
-          "-1.56777358"
-        ]
-      },
-      "id_str" : "222583347233308672",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "222583347233308672",
-      "created_at" : "Tue Jul 10 06:49:40 +0000 2012",
-      "favorited" : false,
-      "full_text" : "Thank-you cunt for driving through the puddle by the pavement",
       "lang" : "en"
     }
   },
